@@ -1,0 +1,15 @@
+.box{
+    width:20%;
+    float:left;
+}
+
+.box img{
+    width:100%;
+}
+
+@media screen and (max-width:980px) {
+    .box{
+        width:30%;
+        float:left;
+    }
+}

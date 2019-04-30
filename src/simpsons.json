@@ -1,0 +1,92 @@
+[
+  {
+    "id":1,
+    "name": "Simpson Family",
+    "image": "https://shirano2.github.io/saveImages/images/simpson0.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":2,
+    "name": "Homer Simpson",
+    "image": "https://shirano2.github.io/saveImages/images/simpson1.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":3,
+    "name": "Marge Simpson",
+    "image": "https://shirano2.github.io/saveImages/images/simpson2.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":4,
+    "name": "Bart Simpson",
+    "image": "https://shirano2.github.io/saveImages/images/simpson3.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":5,
+    "name": "Risa Simpson",
+    "image": "https://shirano2.github.io/saveImages/images/simpson4.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":6,
+    "name": "Maggie Simpson",
+    "image": "https://shirano2.github.io/saveImages/images/simpson5.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":7,
+    "name": "Ned Flanders",
+    "image": "https://shirano2.github.io/saveImages/images/simpson6.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":8,
+    "name": "Clancy Wiggum",
+    "image": "https://shirano2.github.io/saveImages/images/simpson7.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":9,
+    "name": "Ralph Wiggum",
+    "image": "https://shirano2.github.io/saveImages/images/simpson8.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":10,
+    "name": "Seymour Skinner",
+    "image": "https://shirano2.github.io/saveImages/images/simpson9.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":11,
+    "name": "Moe Szyslak",
+    "image": "https://shirano2.github.io/saveImages/images/simpson10.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":12,
+    "name": "Milhouse Van Houten",
+    "image": "https://shirano2.github.io/saveImages/images/simpson11.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":13,
+    "name": "Nelson Muntz",
+    "image": "https://shirano2.github.io/saveImages/images/simpson12.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":14,
+    "name": "Charles Montgomery Burns",
+    "image": "https://shirano2.github.io/saveImages/images/simpson13.jpg",
+    "clicked": "false"
+  },
+  {
+    "id":15,
+    "name": "Krusty the Clown",
+    "image": "https://shirano2.github.io/saveImages/images/simpson14.jpg",
+    "clicked": "false"
+  }
+]
