@@ -1,8 +1,37 @@
-# clicky-game
-This app is the game using the Simpsons characters.
+# Clicky-Game
 
-If you want to get score, then you have to click a picture that you haven't clicked yet.
+This app is the game using the set of cards of Simpsons characters.
 
-This is made by **Minseok Choi (https://github.com/shirano2)**.
+If you want to get score, then you have to click a picture that you haven't clicked yet. 
 
-The site is https://shirano2.github.io/clicky-game/
+After you click a card, cards are automatically suffled. 
+
+If you click the cards 15 times without failure, you win!
+
+
+## Site
+https://shirano2.github.io/clicky-game/
+
+
+### Technologies Used
+
+* HTML5
+* CSS3
+* Javascript
+* React.JS
+
+
+### Card Shuffle 
+
+```
+shuffle=id=>{
+    this.checkClick(id);
+    this.setState({
+      simpsons : this.state.simpsons.sort(()=>Math.random()-0.5)
+    });
+}
+```
+
+
+### Creator
+This is made by Minseok Choi (https://github.com/shirano2)
