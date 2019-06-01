@@ -18,7 +18,7 @@ https://shirano2.github.io/clicky-game/
 * HTML5
 * CSS3
 * Javascript
-* React.JS
+* React.js
 
 
 ### Card Shuffle 
